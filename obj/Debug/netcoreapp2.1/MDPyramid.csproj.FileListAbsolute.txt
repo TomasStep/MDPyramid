@@ -1,0 +1,11 @@
+C:\Work\C#\MDPyramid\bin\Debug\netcoreapp2.1\MDPyramid.deps.json
+C:\Work\C#\MDPyramid\bin\Debug\netcoreapp2.1\MDPyramid.runtimeconfig.json
+C:\Work\C#\MDPyramid\bin\Debug\netcoreapp2.1\MDPyramid.runtimeconfig.dev.json
+C:\Work\C#\MDPyramid\bin\Debug\netcoreapp2.1\MDPyramid.dll
+C:\Work\C#\MDPyramid\bin\Debug\netcoreapp2.1\MDPyramid.pdb
+C:\Work\C#\MDPyramid\obj\Debug\netcoreapp2.1\MDPyramid.csprojAssemblyReference.cache
+C:\Work\C#\MDPyramid\obj\Debug\netcoreapp2.1\MDPyramid.csproj.CoreCompileInputs.cache
+C:\Work\C#\MDPyramid\obj\Debug\netcoreapp2.1\MDPyramid.AssemblyInfoInputs.cache
+C:\Work\C#\MDPyramid\obj\Debug\netcoreapp2.1\MDPyramid.AssemblyInfo.cs
+C:\Work\C#\MDPyramid\obj\Debug\netcoreapp2.1\MDPyramid.dll
+C:\Work\C#\MDPyramid\obj\Debug\netcoreapp2.1\MDPyramid.pdb
